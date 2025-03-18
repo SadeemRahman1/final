@@ -69,7 +69,7 @@ const AdminSignIn = () => {
       <div className="w-full max-w-md p-8 bg-white rounded-3xl shadow-xl divide-y divide-neutral-200">
         <div className="text-center pb-6">
           <img
-            src="src/assets/NCBA&E.png"
+            src="https://images.app.goo.gl/e4aEQeZDWyuVCPpq8"
             alt="NCBA&E Logo"
             className="mx-auto h-30 w-30" // Fixed size
           />
