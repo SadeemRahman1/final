@@ -58,13 +58,14 @@ const AdminSignIn = () => {
     <div
       className="flex items-center justify-center min-h-screen bg-gray-50"
       style={{
-        backgroundImage: `url(/src/assets/background_image.png)`, // Adjust path as needed
+        backgroundImage: `url('https://raw.githubusercontent.com/SadeemRahman1/final/main/public/background_image.png')`,
         backgroundSize: "cover",
         backgroundPosition: "center right",
         backgroundRepeat: "no-repeat",
         backgroundBlendMode: "overlay",
         backgroundColor: "rgba(0, 0, 0, 0.1)", // Slight overlay for transparency
       }}
+      
     >
       <div className="w-full max-w-md p-8 bg-white rounded-3xl shadow-xl divide-y divide-neutral-200">
         <div className="text-center pb-6">
