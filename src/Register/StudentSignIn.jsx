@@ -78,7 +78,7 @@ const StudentSignIn = () => {
             <img
               src="src/assets/NCBA&E.png"
               alt="NCBA&E Logo"
-              className="mx-auto h-20 w-20" // Adjusted size for better fit
+              className="mx-auto h-30 w-30" // Adjusted size for better fit
             />
             <h2 className="text-2xl font-bold text-gray-800 mt-4">
               Sign In to NCBA&E
